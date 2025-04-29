@@ -1,3 +1,5 @@
+
+
 # Experiment No: 1e – SEB-Minimum of Three Numbers
 
 ## AIM  
