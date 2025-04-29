@@ -1,4 +1,7 @@
-# Experiment No: 1c-Varibles and Expressions, Operators -  Exponent of a Given Number Using ** Operator in Python
+
+
+
+# Experiment No: 1c-Varibles and Expressions, Operators -  Exponent of a Given Number Using ** Operator
 
 ## AIM
 To write a Python program that reads two integers from the user and finds the exponent (power) of the first number raised to the second number using the ** operator.
